@@ -1,0 +1,169 @@
+[
+    {
+        "name": "nimotsu",
+        "trans": ["荷物"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "hagaki",
+        "trans": [""],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "kitte",
+        "trans": ["切手"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "hukidashi",
+        "trans": ["引き出し"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "arubamu",
+        "trans": [""],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "tabako",
+        "trans": [""],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "mannga",
+        "trans": ["漫画"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "gare-ji",
+        "trans": [""],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "shuuri",
+        "trans": ["修理"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "izakaya",
+        "trans": ["居酒屋"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "namabi-ru",
+        "trans": ["生ビ_ル"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "yakitori",
+        "trans": ["_き_"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "karaage",
+        "trans": ["唐_げ"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "nikujaga",
+        "trans": ["肉じゃが"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "bo-rinngu",
+        "trans": [""],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "kami",
+        "trans": ["_"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "zou",
+        "trans": ["象"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "hiru",
+        "trans": ["昼"],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "hoka",
+        "trans": [""],
+        "notation": "[名]"
+    }
+,
+    {
+        "name": "kakarimasu",
+        "trans": [""],
+        "notation": "[动1ます形]"
+    }
+,
+    {
+        "name": "sakimasu",
+        "trans": ["_きます"],
+        "notation": "[动1ます形]"
+    }
+,
+    {
+        "name": "oyogimasu",
+        "trans": ["泳ぎます"],
+        "notation": "[动1ます形]"
+    }
+,
+    {
+        "name": "asobimasu",
+        "trans": ["_びます"],
+        "notation": "[动1ます形]"
+    }
+,
+    {
+        "name": "suimasu",
+        "trans": ["吸います"],
+        "notation": "[动1ます形]"
+    }
+,
+    {
+        "name": "kirimasu",
+        "trans": ["切ります"],
+        "notation": "[动1ます形]"
+    }
+,
+    {
+        "name": "daitai",
+        "trans": [""],
+        "notation": "[副]"
+    }
+,
+    {
+        "name": "toriaezu",
+        "trans": [""],
+        "notation": "[副]"
+    }
+,
+    {
+        "name": "donogurai",
+        "trans": [""],
+        "notation": "[]"
+    }
+]

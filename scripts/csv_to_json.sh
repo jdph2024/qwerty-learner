@@ -30,13 +30,13 @@ for file in "$INPUT_DIR"/*.csv; do
         first_entry=1
 
         # 逐行读取 CSV 文件
-        while IFS=, read -r col1 col2 col3 rest; do
+        while IFS=, read -r col1 col2 col3 col4 rest; do
             # 处理所有非空行（第一列非空）
             if [ -n "$col1" ]; then
                 # 移除第一列中的 ZWNBSP (BOM) 字符
                 col1=$(echo "$col1" | sed 's/^\xEF\xBB\xBF//')
-                # 移除第三列中的换行符和回车符
-                col3=$(echo "$col3" | tr -d '\n\r')
+                # 移除第四列中的换行符和回车符
+                col3=$(echo "$col4" | tr -d '\n\r')
 
                 # 非首个条目前添加逗号
                 if [ $first_entry -eq 0 ]; then
@@ -49,7 +49,7 @@ for file in "$INPUT_DIR"/*.csv; do
                 echo "    {" >> "$OUTPUT_FILE"
                 echo "        \"name\": \"$col1\"," >> "$OUTPUT_FILE"
                 echo "        \"trans\": [\"$col2\"]," >> "$OUTPUT_FILE"
-                echo "        \"notation\": \"$col3\"" >> "$OUTPUT_FILE"
+                echo "        \"notation\": \"[$col4]$col3\"" >> "$OUTPUT_FILE"
                 echo "    }" >> "$OUTPUT_FILE"
             fi
         done < "$file"
