@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 定义输入和输出目录
-INPUT_DIR="/Users/zhuhao/IdeaProjects/qwerty-learner/scripts"
-OUTPUT_DIR="/Users/zhuhao/IdeaProjects/qwerty-learner/scripts"
+INPUT_DIR="../scripts"
+OUTPUT_DIR="../scripts"
 
 # 检查输入目录是否存在
 if [ ! -d "$INPUT_DIR" ]; then
@@ -36,7 +36,7 @@ for file in "$INPUT_DIR"/*.csv; do
                 # 移除第一列中的 ZWNBSP (BOM) 字符
                 col1=$(echo "$col1" | sed 's/^\xEF\xBB\xBF//')
                 # 移除第四列中的换行符和回车符
-                col3=$(echo "$col4" | tr -d '\n\r')
+                col4=$(echo "$col4" | tr -d '\n\r')
 
                 # 非首个条目前添加逗号
                 if [ $first_entry -eq 0 ]; then

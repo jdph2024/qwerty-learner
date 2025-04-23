@@ -4033,6 +4033,21 @@ const japaneseExam: DictionaryResource[] = [
   },
 ]
 
+// 标准日本语
+const standardJapanese: DictionaryResource[] = [
+  {
+    id: 'sta_jap_13',
+    name: '第13课',
+    description: '中文翻译',
+    category: '日语学习',
+    tags: ['标准日本语初级'],
+    url: '/dicts/standardjapanese/sta_jap_13.json',
+    length: 29,
+    language: 'romaji',
+    languageCategory: 'ja',
+  },
+]
+
 // 德语词典
 const germanExam: DictionaryResource[] = [
   {
@@ -4110,6 +4125,7 @@ export const dictionaryResources: DictionaryResource[] = [
   ...childrenEnglish,
   ...programming,
   ...japaneseExam,
+  ...standardJapanese,
   ...germanExam,
   ...kazakhHapinDicts,
   ...indonesianDicts,
