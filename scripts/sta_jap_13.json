@@ -1,169 +1,142 @@
 [
-    {
-        "name": "nimotsu",
-        "trans": ["ºÉÎï"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "hagaki",
-        "trans": [""],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "kitte",
-        "trans": ["ÇÐÊÖ"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "hukidashi",
-        "trans": ["Òý¤­³ö¤·"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "arubamu",
-        "trans": [""],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "tabako",
-        "trans": [""],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "mannga",
-        "trans": ["Âþ»­"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "gare-ji",
-        "trans": [""],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "shuuri",
-        "trans": ["ÐÞÀí"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "izakaya",
-        "trans": ["¾Ó¾ÆÎÝ"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "namabi-ru",
-        "trans": ["Éú¥Ó_¥ë"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "yakitori",
-        "trans": ["_¤­_"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "karaage",
-        "trans": ["ÌÆ_¤²"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "nikujaga",
-        "trans": ["Èâ¤¸¤ã¤¬"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "bo-rinngu",
-        "trans": [""],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "kami",
-        "trans": ["_"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "zou",
-        "trans": ["Ïó"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "hiru",
-        "trans": ["Öç"],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "hoka",
-        "trans": [""],
-        "notation": "[Ãû]"
-    }
-,
-    {
-        "name": "kakarimasu",
-        "trans": [""],
-        "notation": "[¶¯1¤Þ¤¹ÐÎ]"
-    }
-,
-    {
-        "name": "sakimasu",
-        "trans": ["_¤­¤Þ¤¹"],
-        "notation": "[¶¯1¤Þ¤¹ÐÎ]"
-    }
-,
-    {
-        "name": "oyogimasu",
-        "trans": ["Ó¾¤®¤Þ¤¹"],
-        "notation": "[¶¯1¤Þ¤¹ÐÎ]"
-    }
-,
-    {
-        "name": "asobimasu",
-        "trans": ["_¤Ó¤Þ¤¹"],
-        "notation": "[¶¯1¤Þ¤¹ÐÎ]"
-    }
-,
-    {
-        "name": "suimasu",
-        "trans": ["Îü¤¤¤Þ¤¹"],
-        "notation": "[¶¯1¤Þ¤¹ÐÎ]"
-    }
-,
-    {
-        "name": "kirimasu",
-        "trans": ["ÇÐ¤ê¤Þ¤¹"],
-        "notation": "[¶¯1¤Þ¤¹ÐÎ]"
-    }
-,
-    {
-        "name": "daitai",
-        "trans": [""],
-        "notation": "[¸±]"
-    }
-,
-    {
-        "name": "toriaezu",
-        "trans": [""],
-        "notation": "[¸±]"
-    }
-,
-    {
-        "name": "donogurai",
-        "trans": [""],
-        "notation": "[]"
-    }
+  {
+    "name": "nimotsu",
+    "trans": ["ï¿½ï¿½ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "hagaki",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "kitte",
+    "trans": ["ï¿½ï¿½ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "hukidashi",
+    "trans": ["ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "arubamu",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "tabako",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "mannga",
+    "trans": ["ï¿½ï¿½ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "gare-ji",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "shuuri",
+    "trans": ["ï¿½ï¿½ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "izakaya",
+    "trans": ["ï¿½Ó¾ï¿½ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "namabi-ru",
+    "trans": ["ï¿½ï¿½ï¿½ï¿½_ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "yakitori",
+    "trans": ["_ï¿½ï¿½_"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "karaage",
+    "trans": ["ï¿½ï¿½_ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "nikujaga",
+    "trans": ["ï¿½â¤¸ï¿½ã¤¬"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "bo-rinngu",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "kami",
+    "trans": ["_"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "zou",
+    "trans": ["ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "hiru",
+    "trans": ["ï¿½ï¿½"],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "hoka",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "kakarimasu",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½1ï¿½Þ¤ï¿½ï¿½ï¿½]"
+  },
+  {
+    "name": "sakimasu",
+    "trans": ["_ï¿½ï¿½ï¿½Þ¤ï¿½"],
+    "notation": "[ï¿½ï¿½1ï¿½Þ¤ï¿½ï¿½ï¿½]"
+  },
+  {
+    "name": "oyogimasu",
+    "trans": ["Ó¾ï¿½ï¿½ï¿½Þ¤ï¿½"],
+    "notation": "[ï¿½ï¿½1ï¿½Þ¤ï¿½ï¿½ï¿½]"
+  },
+  {
+    "name": "asobimasu",
+    "trans": ["_ï¿½Ó¤Þ¤ï¿½"],
+    "notation": "[ï¿½ï¿½1ï¿½Þ¤ï¿½ï¿½ï¿½]"
+  },
+  {
+    "name": "suimasu",
+    "trans": ["ï¿½ï¿½ï¿½ï¿½ï¿½Þ¤ï¿½"],
+    "notation": "[ï¿½ï¿½1ï¿½Þ¤ï¿½ï¿½ï¿½]"
+  },
+  {
+    "name": "kirimasu",
+    "trans": ["ï¿½Ð¤ï¿½Þ¤ï¿½"],
+    "notation": "[ï¿½ï¿½1ï¿½Þ¤ï¿½ï¿½ï¿½]"
+  },
+  {
+    "name": "daitai",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "toriaezu",
+    "trans": [""],
+    "notation": "[ï¿½ï¿½]"
+  },
+  {
+    "name": "donogurai",
+    "trans": [""],
+    "notation": "[]"
+  }
 ]
